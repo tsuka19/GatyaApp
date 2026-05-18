@@ -5,13 +5,13 @@
 <img width="200" height="400" alt="1000008141" src="https://github.com/user-attachments/assets/5669dc9b-f883-4f03-9c59-aa7b949d5c38" />
 
 
-* **レイアウト画面はapp/src/main/res/layout フォルダに入れております**
+**レイアウト画面はapp/src/main/res/layout フォルダに入れております**
 * activity_main.xml
 * activity_sub.xml
 * activity_third.xml
 <br>
 
-* **プログラムはapp/src/main/java/com/example/gachaapp フォルダに入れております**
+**プログラムはapp/src/main/java/com/example/gachaapp フォルダに入れております**
 * AL.java
 * MainActivity.java
 * SubActivity.java
